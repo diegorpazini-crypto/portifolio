@@ -97,10 +97,19 @@ function Curriculo() {
             <ul className="cert-list">
               <li className="cert-item">
                 <FiFileText className="cert-icon" />
-                <a href="/certs/Certificado.pdf" target="_blank" rel="noreferrer" className="cert-link">Certificado.pdf</a>
+                <a href="/certs/Certificado.pdf" target="_blank" rel="noreferrer" className="cert-link">Certificado HTML, CSS E JAVASCRIPT</a>
                 <a href="/certs/Certificado.pdf" target="_blank" rel="noreferrer" className="external" title="Abrir PDF"><FiExternalLink/></a>
               </li>
             </ul>
+
+            <ul className="cert-list">
+              <li className="cert-item">
+                <FiFileText className="cert-icon" />
+                <a href="https://hermes.dio.me/certificates/Z2NAGFAJ.pdf" target="_blank" rel="noreferrer" className="cert-link">Certificado Versionamento de Código</a>
+                <a href="https://hermes.dio.me/certificates/Z2NAGFAJ.pdf" target="_blank" rel="noreferrer" className="external" title="Abrir PDF"><FiExternalLink/></a>
+              </li>
+            </ul>
+
           </div>
         </motion.aside>
       </div>
